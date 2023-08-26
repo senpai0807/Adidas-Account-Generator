@@ -1,0 +1,22 @@
+{
+  "name": "adidasaccountgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "senpai0807",
+  "license": "ISC",
+  "dependencies": {
+    "async-lock": "^1.4.0",
+    "discord-webhook-node": "^1.1.8",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.0.0",
+    "node-random-name": "^1.0.1",
+    "path": "^0.12.7",
+    "playwright": "^1.37.1",
+    "uuid": "^9.0.0"
+  }
+}
